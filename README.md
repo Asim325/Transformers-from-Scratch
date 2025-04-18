@@ -7,3 +7,6 @@
 
 ## 2_ Sequence to Sequence Transformer for Neural Machine Translation 
             . Complete Encoder Decoder Architecture
+            . Cross Attention
+            . Mask Multi Head Attention
+            . Softmax

@@ -5,7 +5,7 @@
             . FCN, Layer Normalizations and Residual Connection with dropouts regularization
             . Sigmoid for classfication in final layer
 
-## 2_ Sequence to Sequence Transformer for Neural Machine Translation 
+## 2_ Sequence to Sequence Transformer for Neural Machine Translation (Code from Tensorflow documents)
             . Complete Encoder Decoder Architecture
             . Cross Attention
             . Mask Multi Head Attention

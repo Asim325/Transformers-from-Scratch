@@ -10,3 +10,13 @@
             . Cross Attention
             . Mask Multi Head Attention
             . Softmax
+## 3_ Generative Pre-trained Transformer from Scratch
+            . Decoder Part of Transformer from scratch(Embeddings, LayerNormalization, Masked Multihead Attention ,Gaussian Error Linear Unit(GELU), FFN, Residual Connections)
+            . Text Generation withoud training GPT2-Small(124M)
+            . Parameter Calculation, tying.
+            . Memory Consumption
+            Note the Scratch Noted Implemented from Book " **Building LLMs from Scratch by Sebatian Raschaka** "
+            ### Pre-trained GPT2 model from Transformers lib,
+                        . Text Generation with effect of different parameters on text output
+                        . Top k, Top p, do_sample, repitition peanlity, temperature
+                        ### Finetuning through prompts(few shot examples)
